@@ -3,7 +3,7 @@
 A full-stack churn prediction app: synthetic SaaS account data → trained
 classifier → FastAPI backend → React frontend with SHAP-explained
 predictions and an instrument-panel UI.
-
+LINK - (https://de-coder-bit-saas-churn-predictor-streamlit-appapp-w01yho.streamlit.app/)
 ```
 saas-churn-predictor/
 ├── backend/
